@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about development
 - 📫 How to reach me: jorgejcdev@gmail.com
+- https://www.linkedin.com/in/jorge-jc-05987b247/
 
 <!---
 jorgejcdev/jorgejcdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
