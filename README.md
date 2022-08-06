@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about development
 - 📫 How to reach me: jorgejcdev@gmail.com
 https://www.linkedin.com/in/jorge-jc-05987b247/ 
+>
