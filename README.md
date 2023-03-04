@@ -21,5 +21,3 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/node%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </div>
-<br/>
-[![Linkedin]
