@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on new projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about development
-- 📫 How to reach me: jorgejcdev@gmail.com
+- 📫 How to reach me: jorgejcdev@gmail.com.
 - https://www.linkedin.com/in/jorge-jc-05987b247/
 
 <!---
