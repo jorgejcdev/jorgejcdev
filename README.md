@@ -1,4 +1,4 @@
-### Hi there_
+### Hi there
 
 - 🔭 I’m currently working on front end developer
 - 🌱 I’m currently learning new tech
