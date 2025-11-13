@@ -1,7 +1,7 @@
 ### Hi there  
 - 🔭 I’m currently working on front end developer 
 - 🌱 I’m currently learning new tech $
-- 👯 I’m looking to collaborate on new projects.....
+- 👯 I’m looking to collaborate on new projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about development
 - 📫 How to reach me: jorgejcdev@gmail.com
